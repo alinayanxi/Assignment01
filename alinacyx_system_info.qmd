@@ -22,3 +22,4 @@ mem = psutil.virtual_memory()
 print("Total Memory (MB):", round(mem.total/(1024**2), 2))
 print("Available Memory (MB):", round(mem.available/(1024**2), 2))
 ```
+1-groupB.git
